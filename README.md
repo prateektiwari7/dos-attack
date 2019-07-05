@@ -15,11 +15,26 @@
     IP VICTIM : 
     PORT : 
 
-##OUTPUTS
+## OUTPUTS
+```
+To run it
+```
 ![Screenshot](run.png)
+
+```
+Showing progress
+```
 
 ![Screenshot](progress.png)  
 
+```
+packets transfer
+```
+
 ![Screenshot](second.png)
+
+```
+check victims network manager
+```
 
 ![Screenshot](last.png)
