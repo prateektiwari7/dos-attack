@@ -11,4 +11,15 @@
     python dos-attack.py
 
 ## ADD VICTIMS IP AND PORT
-![Screenshot](add-device.png)
+
+    IP VICTIM : 
+    PORT : 
+
+##OUTPUTS
+![Screenshot](run.png)
+
+![Screenshot](progress.png)  
+
+![Screenshot](second.png)
+
+![Screenshot](last.png)
