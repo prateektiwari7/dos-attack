@@ -1,6 +1,6 @@
 # DOS ATTACK Example 
 
-    Attack on network.
+    Attack on network 
 
 ## Requirements
 
