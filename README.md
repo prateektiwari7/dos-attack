@@ -22,10 +22,6 @@ To run it
 ![Screenshot](run.png)
 
 ```
-Showing progress
-```
-
-![Screenshot](progress.png)  
 
 ```
 packets transfer
