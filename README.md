@@ -17,9 +17,6 @@
 
 ## OUTPUTS
 ```
-To run it
-```
-![Screenshot](run.png)
 
 ```
 
